@@ -13,7 +13,9 @@ source .env/bin/activate
 
 You will need to install PyQt6 with the following command:
 
-`pip install pyqt6`
+```bash
+pip install pyqt6
+```
 
 Once these commands have been run, run the app with `python3 app.py` and the GUI should open.
 
